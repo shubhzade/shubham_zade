@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shubham_zade/static/css/main.e595601e.chunk.css",
+    "main.css": "/shubham_zade/static/css/main.d8ab0ac4.chunk.css",
     "main.js": "/shubham_zade/static/js/main.77644188.chunk.js",
     "main.js.map": "/shubham_zade/static/js/main.77644188.chunk.js.map",
     "runtime-main.js": "/shubham_zade/static/js/runtime-main.e12886ee.js",
@@ -8,13 +8,13 @@
     "static/js/2.94ea8358.chunk.js": "/shubham_zade/static/js/2.94ea8358.chunk.js",
     "static/js/2.94ea8358.chunk.js.map": "/shubham_zade/static/js/2.94ea8358.chunk.js.map",
     "index.html": "/shubham_zade/index.html",
-    "static/css/main.e595601e.chunk.css.map": "/shubham_zade/static/css/main.e595601e.chunk.css.map",
+    "static/css/main.d8ab0ac4.chunk.css.map": "/shubham_zade/static/css/main.d8ab0ac4.chunk.css.map",
     "static/js/2.94ea8358.chunk.js.LICENSE.txt": "/shubham_zade/static/js/2.94ea8358.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e12886ee.js",
     "static/js/2.94ea8358.chunk.js",
-    "static/css/main.e595601e.chunk.css",
+    "static/css/main.d8ab0ac4.chunk.css",
     "static/js/main.77644188.chunk.js"
   ]
 }
